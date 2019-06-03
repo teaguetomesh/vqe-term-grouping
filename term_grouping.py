@@ -26,7 +26,7 @@ import pprint
 import copy
 
 
-def gen_comm_graph(term_array):
+def gen_qwc_comm_graph(term_array):
     g = {}
 
     for i, term1 in enumerate(term_array):
@@ -41,6 +41,28 @@ def gen_comm_graph(term_array):
                     commute = False
                     break
             if commute:
+                comm_array += [''.join(term2)]
+        g[''.join(term1)] = comm_array
+
+    print('MEASURECIRCUIT: Generated graph for the Hamiltonian with {} nodes.'.format(len(g)))
+
+    return g
+
+
+def gen_full_comm_graph(term_array):
+    g = {}
+
+    for i, term1 in enumerate(term_array):
+        comm_array = []
+        for j, term2 in enumerate(term_array):
+
+            if i == j: continue
+            non_comm_indices = 0
+            for c1, c2 in zip(term1, term2):
+                if c1 == '*': continue
+                if (c1 != c2) and (c2 != '*'):
+                    non_comm_indices += 1
+            if (non_comm_indices % 2) == 0:
                 comm_array += [''.join(term2)]
         g[''.join(term1)] = comm_array
 
@@ -194,13 +216,20 @@ def genMeasureCircuit(H, Nq):
             term_reqs[i][qubit_index] = basis
 
     # Generate a graph representing the commutativity of the Hamiltonian terms
-    comm_graph = gen_comm_graph(term_reqs)
+    comm_graph = gen_full_comm_graph(term_reqs)
 
     # Find a set of cliques within the graph where the nodes in each clique
     # are disjoint from one another.
     max_cliques = BronKerbosch(comm_graph)
     print('MEASURECIRCUIT: BronKerbosch found {} unique circuits'.format(len(max_cliques)))
     
+    return max_cliques
+
+    '''
+    This section of the code produces a quantum circuit to measure each of
+    the cliques found above. However, it can only handle QWC cliques since
+    commuting groups like [XX,YY,ZZ] require a bit more handling.
+
     # Generate the circuitMatrix
     #   Number of rows = number of qubits
     #   Number of cols = number of circuits
@@ -233,15 +262,29 @@ def genMeasureCircuit(H, Nq):
         #    output='mpl', plot_barriers=False, reverse_bits=True)
 
     return circuitList
+    '''
+
+
+def parseHamiltonian(myPath):
+    H = []
+    with open(myPath) as hFile:
+        for i, line in enumerate(hFile):
+            line = line.split()
+            if i is not 0:
+                coef = float(line[0])
+                ops = line[1:]
+                H += [(coef, ops)]
+
+    return H
 
 
 if __name__ == "__main__":
-  #H = [(5.076946850678632, ['I0']), (-0.006811585442824442, ['X0', 'X1', 'Y2', 'Y3']), (0.006811585442824442, ['X0', 'Y1', 'Y2', 'X3']), (0.006811585442824442, ['Y0', 'X1', 'X2', 'Y3']), (-0.006811585442824442, ['Y0', 'Y1', 'X2', 'X3']), (-0.4131939082582367, ['Z0']), (0.24086324970819822, ['Z0', 'Z1']), (0.09808757340260295, ['Z0', 'Z2']), (0.10489915884542617, ['Z0', 'Z3']), (-0.41319390825823665, ['Z1']), (0.10489915884542617, ['Z1', 'Z2']), (0.09808757340260295, ['Z1', 'Z3']), (-0.6600956717966215, ['Z2']), (0.09255914539024543, ['Z2', 'Z3']), (-0.6600956717966215, ['Z3'])]
-  H = [(1, ['I0']), (1, ['X0', 'X1', 'Y2', 'Y3']), (1, ['X0', 'X1', 'Y2', 'Z3', 'Z4', 'Z5', 'Z6', 'Y7']), (1, ['X0', 'X1', 'X3', 'Z4', 'Z5', 'X6']), (1, ['X0', 'X1', 'Y4', 'Y5']), (1, ['X0', 'X1', 'Y6', 'Y7']), (1, ['X0', 'Y1', 'Y2', 'X3']), (1, ['X0', 'Y1', 'Y2', 'Z3', 'Z4', 'Z5', 'Z6', 'X7']), (1, ['X0', 'Y1', 'Y3', 'Z4', 'Z5', 'X6']), (1, ['X0', 'Y1', 'Y4', 'X5']), (1, ['X0', 'Y1', 'Y6', 'X7']), (1, ['X0', 'Z1', 'X2', 'X3', 'Z4', 'X5']), (1, ['X0', 'Z1', 'X2', 'Y3', 'Z4', 'Y5']), (1, ['X0', 'Z1', 'X2', 'X4', 'Z5', 'X6']), (1, ['X0', 'Z1', 'X2', 'Y4', 'Z5', 'Y6']), (1, ['X0', 'Z1', 'X2', 'X5', 'Z6', 'X7']), (1, ['X0', 'Z1', 'X2', 'Y5', 'Z6', 'Y7']), (1, ['X0', 'Z1', 'Y2', 'Y4', 'Z5', 'X6']), (1, ['X0', 'Z1', 'Z2', 'X3', 'Y4', 'Z5', 'Z6', 'Y7']), (1, ['X0', 'Z1', 'Z2', 'X3', 'X5', 'X6']), (1, ['X0', 'Z1', 'Z2', 'Y3', 'Y4', 'Z5', 'Z6', 'X7']), (1, ['X0', 'Z1', 'Z2', 'Y3', 'Y5', 'X6']), (1, ['X0', 'Z1', 'Z2', 'Z3', 'X4']), (1, ['X0', 'Z1', 'Z2', 'Z3', 'X4', 'Z5']), (1, ['X0', 'Z1', 'Z2', 'Z3', 'X4', 'Z6']), (1, ['X0', 'Z1', 'Z2', 'Z3', 'X4', 'Z7']), (1, ['X0', 'Z1', 'Z2', 'Z3', 'Z4', 'X5', 'Y6', 'Y7']), (1, ['X0', 'Z1', 'Z2', 'Z3', 'Z4', 'Y5', 'Y6', 'X7']), (1, ['X0', 'Z1', 'Z2', 'X4']), (1, ['X0', 'Z1', 'Z3', 'X4']), (1, ['X0', 'Z2', 'Z3', 'X4']), (1, ['Y0', 'X1', 'X2', 'Y3']), (1, ['Y0', 'X1', 'X2', 'Z3', 'Z4', 'Z5', 'Z6', 'Y7']), (1, ['Y0', 'X1', 'X3', 'Z4', 'Z5', 'Y6']), (1, ['Y0', 'X1', 'X4', 'Y5']), (1, ['Y0', 'X1', 'X6', 'Y7']), (1, ['Y0', 'Y1', 'X2', 'X3']), (1, ['Y0', 'Y1', 'X2', 'Z3', 'Z4', 'Z5', 'Z6', 'X7']), (1, ['Y0', 'Y1', 'Y3', 'Z4', 'Z5', 'Y6']), (1, ['Y0', 'Y1', 'X4', 'X5']), (1, ['Y0', 'Y1', 'X6', 'X7']), (1, ['Y0', 'Z1', 'X2', 'X4', 'Z5', 'Y6']), (1, ['Y0', 'Z1', 'Y2', 'X3', 'Z4', 'X5']), (1, ['Y0', 'Z1', 'Y2', 'Y3', 'Z4', 'Y5']), (1, ['Y0', 'Z1', 'Y2', 'X4', 'Z5', 'X6']), (1, ['Y0', 'Z1', 'Y2', 'Y4', 'Z5', 'Y6']), (1, ['Y0', 'Z1', 'Y2', 'X5', 'Z6', 'X7']), (1, ['Y0', 'Z1', 'Y2', 'Y5', 'Z6', 'Y7']), (1, ['Y0', 'Z1', 'Z2', 'X3', 'X4', 'Z5', 'Z6', 'Y7']), (1, ['Y0', 'Z1', 'Z2', 'X3', 'X5', 'Y6']), (1, ['Y0', 'Z1', 'Z2', 'Y3', 'X4', 'Z5', 'Z6', 'X7']), (1, ['Y0', 'Z1', 'Z2', 'Y3', 'Y5', 'Y6']), (1, ['Y0', 'Z1', 'Z2', 'Z3', 'Y4']), (1, ['Y0', 'Z1', 'Z2', 'Z3', 'Y4', 'Z5']), (1, ['Y0', 'Z1', 'Z2', 'Z3', 'Y4', 'Z6']), (1, ['Y0', 'Z1', 'Z2', 'Z3', 'Y4', 'Z7']), (1, ['Y0', 'Z1', 'Z2', 'Z3', 'Z4', 'X5', 'X6', 'Y7']), (1, ['Y0', 'Z1', 'Z2', 'Z3', 'Z4', 'Y5', 'X6', 'X7']), (1, ['Y0', 'Z1', 'Z2', 'Y4']), (1, ['Y0', 'Z1', 'Z3', 'Y4']), (1, ['Y0', 'Z2', 'Z3', 'Y4']), (1, ['Z0']), (1, ['Z0', 'X1', 'Z2', 'Z3', 'Z4', 'X5']), (1, ['Z0', 'Y1', 'Z2', 'Z3', 'Z4', 'Y5']), (1, ['Z0', 'Z1']), (1, ['Z0', 'X2', 'Z3', 'Z4', 'Z5', 'X6']), (1, ['Z0', 'Y2', 'Z3', 'Z4', 'Z5', 'Y6']), (1, ['Z0', 'Z2']), (1, ['Z0', 'X3', 'Z4', 'Z5', 'Z6', 'X7']), (1, ['Z0', 'Y3', 'Z4', 'Z5', 'Z6', 'Y7']), (1, ['Z0', 'Z3']), (1, ['Z0', 'Z4']), (1, ['Z0', 'Z5']), (1, ['Z0', 'Z6']), (1, ['Z0', 'Z7']), (1, ['X1', 'X2', 'Y3', 'Y4']), (1, ['X1', 'X2', 'X4', 'Z5', 'Z6', 'X7']), (1, ['X1', 'X2', 'Y5', 'Y6']), (1, ['X1', 'Y2', 'Y3', 'X4']), (1, ['X1', 'Y2', 'Y4', 'Z5', 'Z6', 'X7']), (1, ['X1', 'Y2', 'Y5', 'X6']), (1, ['X1', 'Z2', 'X3', 'X4', 'Z5', 'X6']), (1, ['X1', 'Z2', 'X3', 'Y4', 'Z5', 'Y6']), (1, ['X1', 'Z2', 'X3', 'X5', 'Z6', 'X7']), (1, ['X1', 'Z2', 'X3', 'Y5', 'Z6', 'Y7']), (1, ['X1', 'Z2', 'Y3', 'Y5', 'Z6', 'X7']), (1, ['X1', 'Z2', 'Z3', 'X4', 'X6', 'X7']), (1, ['X1', 'Z2', 'Z3', 'Y4', 'Y6', 'X7']), (1, ['X1', 'Z2', 'Z3', 'Z4', 'X5']), (1, ['X1', 'Z2', 'Z3', 'Z4', 'X5', 'Z6']), (1, ['X1', 'Z2', 'Z3', 'Z4', 'X5', 'Z7']), (1, ['X1', 'Z2', 'Z3', 'X5']), (1, ['X1', 'Z2', 'Z4', 'X5']), (1, ['X1', 'Z3', 'Z4', 'X5']), (1, ['Y1', 'X2', 'X3', 'Y4']), (1, ['Y1', 'X2', 'X4', 'Z5', 'Z6', 'Y7']), (1, ['Y1', 'X2', 'X5', 'Y6']), (1, ['Y1', 'Y2', 'X3', 'X4']), (1, ['Y1', 'Y2', 'Y4', 'Z5', 'Z6', 'Y7']), (1, ['Y1', 'Y2', 'X5', 'X6']), (1, ['Y1', 'Z2', 'X3', 'X5', 'Z6', 'Y7']), (1, ['Y1', 'Z2', 'Y3', 'X4', 'Z5', 'X6']), (1, ['Y1', 'Z2', 'Y3', 'Y4', 'Z5', 'Y6']), (1, ['Y1', 'Z2', 'Y3', 'X5', 'Z6', 'X7']), (1, ['Y1', 'Z2', 'Y3', 'Y5', 'Z6', 'Y7']), (1, ['Y1', 'Z2', 'Z3', 'X4', 'X6', 'Y7']), (1, ['Y1', 'Z2', 'Z3', 'Y4', 'Y6', 'Y7']), (1, ['Y1', 'Z2', 'Z3', 'Z4', 'Y5']), (1, ['Y1', 'Z2', 'Z3', 'Z4', 'Y5', 'Z6']), (1, ['Y1', 'Z2', 'Z3', 'Z4', 'Y5', 'Z7']), (1, ['Y1', 'Z2', 'Z3', 'Y5']), (1, ['Y1', 'Z2', 'Z4', 'Y5']), (1, ['Y1', 'Z3', 'Z4', 'Y5']), (1, ['Z1']), (1, ['Z1', 'X2', 'Z3', 'Z4', 'Z5', 'X6']), (1, ['Z1', 'Y2', 'Z3', 'Z4', 'Z5', 'Y6']), (1, ['Z1', 'Z2']), (1, ['Z1', 'X3', 'Z4', 'Z5', 'Z6', 'X7']), (1, ['Z1', 'Y3', 'Z4', 'Z5', 'Z6', 'Y7']), (1, ['Z1', 'Z3']), (1, ['Z1', 'Z4']), (1, ['Z1', 'Z5']), (1, ['Z1', 'Z6']), (1, ['Z1', 'Z7']), (1, ['X2', 'X3', 'Y4', 'Y5']), (1, ['X2', 'X3', 'Y6', 'Y7']), (1, ['X2', 'Y3', 'Y4', 'X5']), (1, ['X2', 'Y3', 'Y6', 'X7']), (1, ['X2', 'Z3', 'X4', 'X5', 'Z6', 'X7']), (1, ['X2', 'Z3', 'X4', 'Y5', 'Z6', 'Y7']), (1, ['X2', 'Z3', 'Z4', 'Z5', 'X6']), (1, ['X2', 'Z3', 'Z4', 'Z5', 'X6', 'Z7']), (1, ['X2', 'Z3', 'Z4', 'X6']), (1, ['X2', 'Z3', 'Z5', 'X6']), (1, ['X2', 'Z4', 'Z5', 'X6']), (1, ['Y2', 'X3', 'X4', 'Y5']), (1, ['Y2', 'X3', 'X6', 'Y7']), (1, ['Y2', 'Y3', 'X4', 'X5']), (1, ['Y2', 'Y3', 'X6', 'X7']), (1, ['Y2', 'Z3', 'Y4', 'X5', 'Z6', 'X7']), (1, ['Y2', 'Z3', 'Y4', 'Y5', 'Z6', 'Y7']), (1, ['Y2', 'Z3', 'Z4', 'Z5', 'Y6']), (1, ['Y2', 'Z3', 'Z4', 'Z5', 'Y6', 'Z7']), (1, ['Y2', 'Z3', 'Z4', 'Y6']), (1, ['Y2', 'Z3', 'Z5', 'Y6']), (1, ['Y2', 'Z4', 'Z5', 'Y6']), (1, ['Z2']), (1, ['Z2', 'X3', 'Z4', 'Z5', 'Z6', 'X7']), (1, ['Z2', 'Y3', 'Z4', 'Z5', 'Z6', 'Y7']), (1, ['Z2', 'Z3']), (1, ['Z2', 'Z4']), (1, ['Z2', 'Z5']), (1, ['Z2', 'Z6']), (1, ['Z2', 'Z7']), (1, ['X3', 'X4', 'Y5', 'Y6']), (1, ['X3', 'Y4', 'Y5', 'X6']), (1, ['X3', 'Z4', 'Z5', 'Z6', 'X7']), (1, ['X3', 'Z4', 'Z5', 'X7']), (1, ['X3', 'Z4', 'Z6', 'X7']), (1, ['X3', 'Z5', 'Z6', 'X7']), (1, ['Y3', 'X4', 'X5', 'Y6']), (1, ['Y3', 'Y4', 'X5', 'X6']), (1, ['Y3', 'Z4', 'Z5', 'Z6', 'Y7']), (1, ['Y3', 'Z4', 'Z5', 'Y7']), (1, ['Y3', 'Z4', 'Z6', 'Y7']), (1, ['Y3', 'Z5', 'Z6', 'Y7']), (1, ['Z3']), (1, ['Z3', 'Z4']), (1, ['Z3', 'Z5']), (1, ['Z3', 'Z6']), (1, ['Z3', 'Z7']), (1, ['X4', 'X5', 'Y6', 'Y7']), (1, ['X4', 'Y5', 'Y6', 'X7']), (1, ['Y4', 'X5', 'X6', 'Y7']), (1, ['Y4', 'Y5', 'X6', 'X7']), (1, ['Z4']), (1, ['Z4', 'Z5']), (1, ['Z4', 'Z6']), (1, ['Z4', 'Z7']), (1, ['Z5']), (1, ['Z5', 'Z6']), (1, ['Z5', 'Z7']), (1, ['Z6']), (1, ['Z6', 'Z7']), (1, ['Z7'])]
   Nq = 8
-  circlist = genMeasureCircuit(H, Nq)
-  names = [c[1] for c in circlist]
-  print(names)
+  hfile = 'extras/sampleH2.txt'
+  H = parseHamiltonian(hfile)
+  cliques = genMeasureCircuit(H, Nq)
+  for cliq in cliques:
+    print(cliq)
 
 
 
