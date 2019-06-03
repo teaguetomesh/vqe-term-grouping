@@ -279,8 +279,9 @@ def parseHamiltonian(myPath):
 
 
 if __name__ == "__main__":
+  # change the number of qubits based on which hamiltonian is selected
   Nq = 8
-  hfile = 'extras/sampleH2.txt'
+  hfile = 'hamiltonians/sampleH2.txt'
   H = parseHamiltonian(hfile)
   cliques = genMeasureCircuit(H, Nq)
   for cliq in cliques:
