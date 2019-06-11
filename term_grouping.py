@@ -26,49 +26,56 @@ import pprint
 import copy
 
 
-def gen_qwc_comm_graph(term_array):
-    g = {}
-
-    for i, term1 in enumerate(term_array):
-        comm_array = []
-        for j, term2 in enumerate(term_array):
-
-            if i == j: continue
-            commute = True
-            for c1, c2 in zip(term1, term2):
-                if c1 == '*': continue
-                if (c1 != c2) and (c2 != '*'):
-                    commute = False
-                    break
-            if commute:
-                comm_array += [''.join(term2)]
-        g[''.join(term1)] = comm_array
-
-    print('MEASURECIRCUIT: Generated graph for the Hamiltonian with {} nodes.'.format(len(g)))
-
-    return g
+class CommutativityType(object):
+    def gen_comm_graph(term_array):
+        raise NotImplementedError
 
 
-def gen_full_comm_graph(term_array):
-    g = {}
+class QWCCommutativity(CommutativityType):
+    def gen_comm_graph(term_array):
+        g = {}
 
-    for i, term1 in enumerate(term_array):
-        comm_array = []
-        for j, term2 in enumerate(term_array):
+        for i, term1 in enumerate(term_array):
+            comm_array = []
+            for j, term2 in enumerate(term_array):
 
-            if i == j: continue
-            non_comm_indices = 0
-            for c1, c2 in zip(term1, term2):
-                if c1 == '*': continue
-                if (c1 != c2) and (c2 != '*'):
-                    non_comm_indices += 1
-            if (non_comm_indices % 2) == 0:
-                comm_array += [''.join(term2)]
-        g[''.join(term1)] = comm_array
+                if i == j: continue
+                commute = True
+                for c1, c2 in zip(term1, term2):
+                    if c1 == '*': continue
+                    if (c1 != c2) and (c2 != '*'):
+                        commute = False
+                        break
+                if commute:
+                    comm_array += [''.join(term2)]
+            g[''.join(term1)] = comm_array
 
-    print('MEASURECIRCUIT: Generated graph for the Hamiltonian with {} nodes.'.format(len(g)))
+        print('MEASURECIRCUIT: Generated graph for the Hamiltonian with {} nodes.'.format(len(g)))
 
-    return g
+        return g
+
+
+class FullCommutativity(CommutativityType):
+    def gen_comm_graph(term_array):
+        g = {}
+
+        for i, term1 in enumerate(term_array):
+            comm_array = []
+            for j, term2 in enumerate(term_array):
+
+                if i == j: continue
+                non_comm_indices = 0
+                for c1, c2 in zip(term1, term2):
+                    if c1 == '*': continue
+                    if (c1 != c2) and (c2 != '*'):
+                        non_comm_indices += 1
+                if (non_comm_indices % 2) == 0:
+                    comm_array += [''.join(term2)]
+            g[''.join(term1)] = comm_array
+
+        print('MEASURECIRCUIT: Generated graph for the Hamiltonian with {} nodes.'.format(len(g)))
+
+        return g
 
 
 def prune_graph(G,nodes):
@@ -200,7 +207,7 @@ def generate_circuit_matrix(Nq, max_cliques):
     return circuitMatrix
 
 
-def genMeasureCircuit(H, Nq):
+def genMeasureCircuit(H, Nq, commutativity_type):
     ''' Take in a given Hamiltonian, H, and produce the minimum number of 
     necessary circuits to measure each term of H.
 
@@ -216,7 +223,7 @@ def genMeasureCircuit(H, Nq):
             term_reqs[i][qubit_index] = basis
 
     # Generate a graph representing the commutativity of the Hamiltonian terms
-    comm_graph = gen_full_comm_graph(term_reqs)
+    comm_graph = commutativity_type.gen_comm_graph(term_reqs)
 
     # Find a set of cliques within the graph where the nodes in each clique
     # are disjoint from one another.
@@ -279,21 +286,13 @@ def parseHamiltonian(myPath):
 
 
 if __name__ == "__main__":
-  # change the number of qubits based on which hamiltonian is selected
-  Nq = 8
-  hfile = 'hamiltonians/sampleH2.txt'
-  H = parseHamiltonian(hfile)
-  cliques = genMeasureCircuit(H, Nq)
-  for cliq in cliques:
-    print(cliq)
+    # change the number of qubits based on which hamiltonian is selected
+    Nq = 8
+    hfile = 'hamiltonians/sampleH2.txt'
+    H = parseHamiltonian(hfile)
 
-
-
-
-
-
-
-
-
-
-
+    for commutativity_type in [QWCCommutativity, FullCommutativity]:
+        cliques = genMeasureCircuit(H, Nq, commutativity_type)
+        for cliq in cliques:
+            print(cliq)
+        print()
