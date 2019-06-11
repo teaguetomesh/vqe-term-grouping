@@ -287,9 +287,13 @@ def parseHamiltonian(myPath):
 
 if __name__ == "__main__":
     # change the number of qubits based on which hamiltonian is selected
-    Nq = 8
     hfile = 'hamiltonians/sampleH2.txt'
     H = parseHamiltonian(hfile)
+
+    # Infer number of qubits from widest term in Hamiltonian
+    ops = [term[1] for term in H]
+    Nq = max([len(op) for op in ops])
+    print('%s qubits' % Nq)
 
     for commutativity_type in [QWCCommutativity, FullCommutativity]:
         cliques = genMeasureCircuit(H, Nq, commutativity_type)
