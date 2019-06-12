@@ -19,6 +19,7 @@ BronKerbosch algorithm.
 '''
 
 
+import time
 import sys
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 import numpy as np
@@ -34,7 +35,6 @@ class CommutativityType(object):
 class QWCCommutativity(CommutativityType):
     def gen_comm_graph(term_array):
         g = {}
-
         for i, term1 in enumerate(term_array):
             comm_array = []
             for j, term2 in enumerate(term_array):
@@ -215,10 +215,12 @@ def genMeasureCircuit(H, Nq, commutativity_type):
         List[QuantumCircuits]
     '''
 
+    start_time = time.time()
+
     term_reqs = np.full((len(H[1:]),Nq),'*',dtype=str)
     for i, term in enumerate(H[1:]):
         for op in term[1]:
-            qubit_index = int(op[1])
+            qubit_index = int(op[1:])
             basis = op[0]
             term_reqs[i][qubit_index] = basis
 
@@ -228,8 +230,12 @@ def genMeasureCircuit(H, Nq, commutativity_type):
     # Find a set of cliques within the graph where the nodes in each clique
     # are disjoint from one another.
     max_cliques = BronKerbosch(comm_graph)
+
+    end_time = time.time()
+
     print('MEASURECIRCUIT: BronKerbosch found {} unique circuits'.format(len(max_cliques)))
-    
+    et = end_time - start_time
+    print('MEASURECIRCUIT: Elapsed time: {:.2f}s'.format(et))
     return max_cliques
 
     '''
