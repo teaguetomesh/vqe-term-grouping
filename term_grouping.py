@@ -25,6 +25,8 @@ from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 import numpy as np
 import pprint
 import copy
+import networkx as nx
+from networkx.algorithms import approximation
 
 
 class CommutativityType(object):
@@ -141,6 +143,18 @@ def BronKerbosch_pivot(G,R,P,X,cliques):
             X.add(v)
 
 
+def NetworkX_approximate_clique_cover(graph_dict):
+    """NetworkX poly-time heuristic is based on
+    Boppana, R., & Halldórsson, M. M. (1992).
+    Approximating maximum independent sets by excluding subgraphs.
+    BIT Numerical Mathematics, 32(2), 180–196. Springer."""
+    G = nx.Graph()
+    for src in graph_dict:
+        for dst in graph_dict[src]:
+            G.add_edge(src, dst)
+    return approximation.clique_removal(G)[1]
+
+
 def BronKerbosch(G):
     '''
     Implementation of Bron-Kerbosch algorithm using a degree ordering of the
@@ -207,7 +221,7 @@ def generate_circuit_matrix(Nq, max_cliques):
     return circuitMatrix
 
 
-def genMeasureCircuit(H, Nq, commutativity_type):
+def genMeasureCircuit(H, Nq, commutativity_type, clique_cover_method=BronKerbosch):
     ''' Take in a given Hamiltonian, H, and produce the minimum number of 
     necessary circuits to measure each term of H.
 
@@ -229,11 +243,12 @@ def genMeasureCircuit(H, Nq, commutativity_type):
 
     # Find a set of cliques within the graph where the nodes in each clique
     # are disjoint from one another.
-    max_cliques = BronKerbosch(comm_graph)
+    max_cliques = clique_cover_method(comm_graph)
 
     end_time = time.time()
 
-    print('MEASURECIRCUIT: BronKerbosch found {} unique circuits'.format(len(max_cliques)))
+    print('MEASURECIRCUIT: {} found {} unique circuits'.format(
+        clique_cover_method.__name__, len(max_cliques)))
     et = end_time - start_time
     print('MEASURECIRCUIT: Elapsed time: {:.6f}s'.format(et))
     return max_cliques
