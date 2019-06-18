@@ -235,7 +235,7 @@ def genMeasureCircuit(H, Nq, commutativity_type):
 
     print('MEASURECIRCUIT: BronKerbosch found {} unique circuits'.format(len(max_cliques)))
     et = end_time - start_time
-    print('MEASURECIRCUIT: Elapsed time: {:.2f}s'.format(et))
+    print('MEASURECIRCUIT: Elapsed time: {:.6f}s'.format(et))
     return max_cliques
 
     '''
@@ -284,7 +284,11 @@ def parseHamiltonian(myPath):
         for i, line in enumerate(hFile):
             line = line.split()
             if i is not 0:
-                coef = float(line[0])
+                if "j" in line[0]:
+                    print('Imaginary coefficient! -- skipping for now')
+                    coef = 0.1
+                else:
+                    coef = float(line[0])
                 ops = line[1:]
                 H += [(coef, ops)]
 
