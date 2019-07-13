@@ -43,7 +43,7 @@ def _get_measurement_circuit(stabilizer_matrix, N):
 
 
 def _validate_stabilizer_matrix(stabilizer_matrix, N):
-    assert stabilizer_matrix.shape == (2 * N, N), '%s qubits, but %s by %s matrix' % (N, 2 * N, N)
+    assert stabilizer_matrix.shape == (2 * N, N), '%s qubits, but matrix shape: %s' % (N, stabilizer_matrix.shape)
     # i, j will always denote row, column index
     for i in range(2 * N):
         for j in range(N):
