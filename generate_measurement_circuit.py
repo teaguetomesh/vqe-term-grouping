@@ -9,7 +9,7 @@ class MeasurementCircuit(object):
 
 
     def __str__(self):
-        return str(circuit)
+        return str(self.circuit) + '\n' + str(self.stabilizer_matrix) + '\n\n\n'
 
 
 def _get_measurement_circuit(stabilizer_matrix, N):
