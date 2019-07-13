@@ -88,11 +88,11 @@ def _patch_Z_matrix(measurement_circuit):
     
     for i in range(N):
         for j in range(0, i):
-            if stabilizer_matrix[i + N, j] == 1:
+            if stabilizer_matrix[i, j] == 1:
                 _apply_CZ(measurement_circuit, i, j)
 
         j = i
-        if stabilizer_matrix[i + N, j] ==  1:
+        if stabilizer_matrix[i, j] ==  1:
             _apply_S(measurement_circuit, i)
 
 
@@ -100,9 +100,7 @@ def _change_X_to_Z_basis(measurement_circuit):
     # change each qubit from X basis to Z basis via H
     N = measurement_circuit.N
     for j in range(N):
-        i = j + N
-        if measurement_circuit.stabilizer_matrix[i, j] == 0:
-            _apply_H(measurement_circuit, j)
+        _apply_H(measurement_circuit, j)
 
 
 def _apply_H(measurement_circuit, i):
