@@ -68,6 +68,12 @@ def _row_reduce_X_matrix(measurement_circuit):
 def _transform_X_matrix_to_row_echelon_form(measurement_circuit):
     N = measurement_circuit.N
     for j in range(N):
+        if measurement_circuit.stabilizer_matrix[j + N, j] == 0:
+            i = j + 1
+            while measurement_circuit.stabilizer_matrix[i + N, j] == 0:
+                i += 1
+            _apply_SWAP(measurement_circuit, i, j)
+
         for i in range(N + j + 1, 2 * N):
             if measurement_circuit.stabilizer_matrix[i, j] == 1:
                 _apply_CNOT(measurement_circuit, j, i - N)
