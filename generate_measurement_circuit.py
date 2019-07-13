@@ -137,6 +137,6 @@ def _apply_CNOT(measurement_circuit, control_index, target_index):
 
 def _apply_SWAP(measurement_circuit, i, j):
     N = measurement_circuit.N
-    measurement_circuit.stabilizer_matrix[[i, j]] = measurement_circuit.stabilizer_matrix[[i, j]]
-    measurement_circuit.stabilizer_matrix[[i + N, j + N]] = measurement_circuit.stabilizer_matrix[[i + N, j + N]]
+    measurement_circuit.stabilizer_matrix[[i, j]] = measurement_circuit.stabilizer_matrix[[j, i]]
+    measurement_circuit.stabilizer_matrix[[i + N, j + N]] = measurement_circuit.stabilizer_matrix[[j + N, i + N]]
     measurement_circuit.circuit.swap(i, j)
