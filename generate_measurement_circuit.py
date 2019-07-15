@@ -1,6 +1,7 @@
 import qiskit as qk
 import numpy as np
 
+
 class MeasurementCircuit(object):
     def __init__(self, circuit, stabilizer_matrix, N):
         self.circuit = circuit
@@ -33,11 +34,12 @@ def _get_measurement_circuit(stabilizer_matrix, N):
     product of the other columns) for this code to work.
     """
     _validate_stabilizer_matrix(stabilizer_matrix, N)
-    measurement_circuit = MeasurementCircuit(qk.QuantumCircuit(N), stabilizer_matrix, N)
+    measurement_circuit = MeasurementCircuit(qk.QuantumCircuit(N, N), stabilizer_matrix, N)
     _prepare_X_matrix(measurement_circuit)
     _row_reduce_X_matrix(measurement_circuit)
     _patch_Z_matrix(measurement_circuit)
     _change_X_to_Z_basis(measurement_circuit)
+    _terminate_with_measurements(measurement_circuit)
 
     return measurement_circuit
 
@@ -107,6 +109,11 @@ def _change_X_to_Z_basis(measurement_circuit):
     N = measurement_circuit.N
     for j in range(N):
         _apply_H(measurement_circuit, j)
+
+
+def _terminate_with_measurements(measurement_circuit):
+    for j in range(measurement_circuit.N):
+        measurement_circuit.circuit.measure(j, j)
 
 
 def _apply_H(measurement_circuit, i):
