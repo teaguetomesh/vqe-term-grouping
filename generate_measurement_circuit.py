@@ -1,5 +1,6 @@
 import qiskit as qk
 import numpy as np
+from copy import deepcopy
 
 
 class MeasurementCircuit(object):
@@ -54,12 +55,22 @@ def _validate_stabilizer_matrix(stabilizer_matrix, N):
 
 
 def _prepare_X_matrix(measurement_circuit):
-    # apply H's to ensure that diagonal of X matrix has 1's
+    """Apply H's to a subset of qubits to ensure that the X matrix has full rank."""
+    # TODO: right now, this is naively trying all possibilities. Really, should apply
+    # the polytime technique described in Aaronson https://arxiv.org/pdf/quant-ph/0406196.pdf
     N = measurement_circuit.N
-    for j in range(N):
-        i = j + N
-        if measurement_circuit.stabilizer_matrix[i, j] == 0:
-            _apply_H(measurement_circuit, j)
+    for bitstring in range(2 ** N):
+        measurement_circuit_copy = deepcopy(measurement_circuit)
+        for i, bit in enumerate("{0:b}".format(bitstring).zfill(N)):
+            if bit == '1':
+                _apply_H(measurement_circuit_copy, i)
+        if np.linalg.matrix_rank(measurement_circuit_copy.stabilizer_matrix[N:]) == N:  # done if full rank
+            measurement_circuit.circuit = measurement_circuit_copy.circuit
+            measurement_circuit.stabilizer_matrix = measurement_circuit_copy.stabilizer_matrix
+            return
+
+    assert False, 'Was not able to get full rank on X matrix of %s' % measurement_circuit
+
 
 def _row_reduce_X_matrix(measurement_circuit):
     """Use Gaussian elimination to reduce the Z matrix to the Identity matrix."""
