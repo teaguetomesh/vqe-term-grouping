@@ -1,4 +1,5 @@
-'''
+# -*- coding: utf-8 -*- 
+"""
 Teague Tomesh - 4/26/2019
 
 Given a particular qubit Hamiltonian, measuring the expected energy of any
@@ -15,8 +16,7 @@ we treat the terms of H as nodes in a graph, G, where there are edges between
 nodes indicate those two terms commute with one another. Finding the circuits
 now becomes a clique finding problem which can be solved by the 
 BronKerbosch algorithm.
-
-'''
+"""
 
 
 import time
@@ -88,10 +88,10 @@ def prune_graph(G,nodes):
 
 
 def degeneracy_ordering(graph):
-    '''
+    """
     Produce a degeneracy ordering of the vertices in graph, as outlined in,
     Eppstein et. al. (arXiv:1006.5440)
-    '''
+    """
 
     # degen_order, will hold the vertex ordering
     degen_order = []
@@ -124,10 +124,10 @@ def degree_ordering(G):
 
 
 def BronKerbosch_pivot(G,R,P,X,cliques):
-    '''
+    """
     For a given graph, G, find a maximal clique containing all of the vertices
     in R, some of the vertices in P, and none of the vertices in X.
-    '''
+    """
     if len(P) == 0 and len(X) == 0:
         # Termination case. If P and X are empty, R is a maximal clique
         cliques.append(R)
@@ -144,10 +144,12 @@ def BronKerbosch_pivot(G,R,P,X,cliques):
 
 
 def NetworkX_approximate_clique_cover(graph_dict):
-    """NetworkX poly-time heuristic is based on
+    """
+    NetworkX poly-time heuristic is based on
     Boppana, R., & Halldórsson, M. M. (1992).
     Approximating maximum independent sets by excluding subgraphs.
-    BIT Numerical Mathematics, 32(2), 180–196. Springer."""
+    BIT Numerical Mathematics, 32(2), 180–196. Springer.
+    """
     G = nx.Graph()
     for src in graph_dict:
         for dst in graph_dict[src]:
@@ -156,12 +158,14 @@ def NetworkX_approximate_clique_cover(graph_dict):
 
 
 def BronKerbosch(G):
-    '''
-    Implementation of Bron-Kerbosch algorithm using a degree ordering of the
-    vertices in G instead of a degeneracy ordering.
+    """
+    Implementation of Bron-Kerbosch algorithm (Bron, Coen; Kerbosch, Joep (1973),
+    "Algorithm 457: finding all cliques of an undirected graph", Commun. ACM,
+    ACM, 16 (9): 575–577, doi:10.1145/362342.362367.) using a degree ordering
+    of the vertices in G instead of a degeneracy ordering.
     See: https://en.wikipedia.org/wiki/Bron-Kerbosch_algorithm
-    '''
-    
+    """
+
     max_cliques = []
 
     while len(G) > 0:
@@ -222,12 +226,13 @@ def generate_circuit_matrix(Nq, max_cliques):
 
 
 def genMeasureCircuit(H, Nq, commutativity_type, clique_cover_method=BronKerbosch):
-    ''' Take in a given Hamiltonian, H, and produce the minimum number of 
+    """
+    Take in a given Hamiltonian, H, and produce the minimum number of 
     necessary circuits to measure each term of H.
 
     Returns:
         List[QuantumCircuits]
-    '''
+    """
 
     start_time = time.time()
 
