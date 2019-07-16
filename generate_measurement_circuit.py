@@ -84,7 +84,7 @@ def _transform_X_matrix_to_row_echelon_form(measurement_circuit):
 def _transform_X_matrix_to_reduced_row_echelon_form(measurement_circuit):
     N = measurement_circuit.N
     for j in range(N - 1, 0, -1):
-        for i in range(N, N + j - 1):
+        for i in range(N, N + j):
             if measurement_circuit.stabilizer_matrix[i, j] == 1:
                 _apply_CNOT(measurement_circuit, j, i - N)
 
