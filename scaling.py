@@ -202,7 +202,7 @@ def genMeasureCircuit(H, Nq, commutativity_type, clique_cover_method=BronKerbosc
 
     # Generate a graph representing the commutativity of the Hamiltonian terms
     comm_graph = commutativity_type.gen_comm_graph(term_reqs)
-
+    num_terms = len(comm_graph)
     # Find a set of cliques within the graph where the nodes in each clique
     # are disjoint from one another.
     try:
@@ -217,7 +217,7 @@ def genMeasureCircuit(H, Nq, commutativity_type, clique_cover_method=BronKerbosc
         clique_cover_method.__name__, len(max_cliques)))
     et = end_time - start_time
     print('MEASURECIRCUIT: Elapsed time: {:.6f}s'.format(et))
-    return len(comm_graph), len(max_cliques), et
+    return num_terms, len(max_cliques), et
 
 
 def parseHamiltonian(myPath):
