@@ -1,0 +1,10 @@
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt QWC Counter({69: 100}) 0.268
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt FULL Counter({8: 100}) 1.902
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt QWC Counter({57: 100}) 0.169
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt FULL Counter({8: 100}) 1.465
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt QWC Counter({27: 100}) 5.861
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt FULL Counter({16: 100}) 63.415
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt QWC Counter({57: 100}) 0.169
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt FULL Counter({8: 100}) 1.462
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt QWC Counter({59: 100}) 0.171
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt FULL Counter({8: 100}) 1.702

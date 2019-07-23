@@ -1,0 +1,3034 @@
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 69 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.26s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 2.10s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.90s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.18s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.64s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 6.01s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.80s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.80s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.80s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.85s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.85s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.95s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.92s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.92s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.92s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.85s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.85s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.93s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.88s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.86s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.87s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.82s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.96s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.84s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.90s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.89s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.81s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 27 unique circuits
+MEASURECIRCUIT: Elapsed time: 5.91s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 61.72s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 62.74s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.29s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.40s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.61s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.60s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.43s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.35s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.40s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.49s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.57s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.55s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.52s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.37s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.43s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.38s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.38s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.27s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.41s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.38s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.41s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.44s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.33s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.33s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.32s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.83s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.53s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.41s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.39s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.40s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.49s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.56s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.51s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.51s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.55s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.59s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.52s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.35s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.34s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.47s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.33s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.35s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.38s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.43s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.40s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.30s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.33s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.32s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.36s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.78s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.76s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.42s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.66s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.40s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.35s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.41s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 460 nodes.
+MEASURECIRCUIT: BronKerbosch found 16 unique circuits
+MEASURECIRCUIT: Elapsed time: 63.48s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.18s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 57 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.62s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.50s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.45s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.46s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.19s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.18s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 59 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.17s
+--------------
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.91s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.69s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.69s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.69s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.69s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.71s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.69s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.70s
+
+
+--------------
+All trials finished
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt QWC Counter({69: 100}) 0.268
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt FULL Counter({8: 100}) 1.902
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt QWC Counter({57: 100}) 0.169
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt FULL Counter({8: 100}) 1.465
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt QWC Counter({27: 100}) 5.861
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt FULL Counter({16: 100}) 63.415
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt QWC Counter({57: 100}) 0.169
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt FULL Counter({8: 100}) 1.462
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt QWC Counter({59: 100}) 0.171
+/n/fs/grad/ttomesh/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt FULL Counter({8: 100}) 1.702
