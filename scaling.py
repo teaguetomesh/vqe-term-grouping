@@ -18,6 +18,8 @@ def parse_args():
                         help='type of commutation graph to generate')
     parser.add_argument('-s','--specificH',type=str,default=None,
                         help='Can specify a particular H')
+    parser.add_argument('-l','--limit',type=int,default=1000,
+                        help='Maximum size graph to consider')
     args = parser.parse_args()
     return args
 
@@ -283,8 +285,9 @@ def main():
 
             total_terms = len(H)
             print('{} total terms\n'.format(total_terms))
-            if total_terms > 1000:
-                print('Number of terms = {} > 1000'.format(total_terms))
+            if total_terms > args.limit:
+                print('Number of terms = {} > {}'.format(total_terms,
+                                                         args.limit))
                 print('Recommend running this Hamiltonian individually')
                 continue
 
