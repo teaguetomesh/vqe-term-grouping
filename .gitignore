@@ -2,7 +2,6 @@ extras/
 .ipynb_checkpoints/
 OpenFermion/
 *.DS_Store
-Data/
 Minimizing_State_Preparations_for_VQE.pdf
 *pycache*
 *.pyc
