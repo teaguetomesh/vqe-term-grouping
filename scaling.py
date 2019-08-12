@@ -68,6 +68,13 @@ class FullCommutativity(CommutativityType):
                         non_comm_indices += 1
                 if (non_comm_indices % 2) == 0:
                     comm_array += [''.join(term2)]
+            # DEBUG: seeing if there are duplicates in Hamiltonian file
+            try:
+                t = ''.join(term1)
+                print(g[t])
+                print('DUPLICATE: {}'.format(t))
+            except KeyError:
+                gg = 0
             g[''.join(term1)] = comm_array
 
         print('MEASURECIRCUIT: Generated graph for the Hamiltonian with {} nodes.'.format(len(g)))

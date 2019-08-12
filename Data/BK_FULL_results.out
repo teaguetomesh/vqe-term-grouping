@@ -1,0 +1,575 @@
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_sto-3g_BK_1.45_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BK_104_AS5.txt
+10 qubits
+276 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 275 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 338.221049s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_sto-3g_BK_1.45_AS2.txt
+4 qubits
+27 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 26 nodes.
+MEASURECIRCUIT: BronKerbosch found 3 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.011729s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS2.txt
+4 qubits
+15 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 14 nodes.
+MEASURECIRCUIT: BronKerbosch found 2 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.003685s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS3.txt
+6 qubits
+62 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 61 nodes.
+MEASURECIRCUIT: BronKerbosch found 7 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.090896s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BK_104_AS2.txt
+4 qubits
+27 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 26 nodes.
+MEASURECIRCUIT: BronKerbosch found 3 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.008224s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BK_104_AS5.txt
+10 qubits
+276 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 275 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 338.093140s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BKSF_104_AS6.txt
+48 qubits
+1495 total terms
+
+Number of terms = 1495 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_sto-3g_BK_1.45_AS4.txt
+8 qubits
+193 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 192 nodes.
+MEASURECIRCUIT: BronKerbosch found 10 unique circuits
+MEASURECIRCUIT: Elapsed time: 8.428808s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_sto-3g_BK_0.7_AS2.txt
+4 qubits
+15 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 14 nodes.
+MEASURECIRCUIT: BronKerbosch found 2 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.001954s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_sto-3g_BK_1.45_AS3.txt
+6 qubits
+118 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 117 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.206544s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000145s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS2.txt
+4 qubits
+15 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 14 nodes.
+MEASURECIRCUIT: BronKerbosch found 2 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.002009s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS7.txt
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+14 qubits
+3006 total terms
+
+Number of terms = 3006 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_PC_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS4.txt
+8 qubits
+185 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.720200s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BK_104_AS4.txt
+8 qubits
+193 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 192 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 9.081992s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_PC_0.7_AS4.txt
+8 qubits
+185 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.732630s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BKSF_104_AS6.txt
+48 qubits
+1495 total terms
+
+Number of terms = 1495 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BKT_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS4.txt
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+8 qubits
+241 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 240 nodes.
+MEASURECIRCUIT: BronKerbosch found 18 unique circuits
+MEASURECIRCUIT: Elapsed time: 23.378573s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_sto-3g_BK_0.7_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000193s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_sto-3g_BK_1.45_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000127s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BK_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BK_104_AS3.txt
+6 qubits
+62 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 61 nodes.
+MEASURECIRCUIT: BronKerbosch found 7 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.069056s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS8.txt
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+16 qubits
+5237 total terms
+
+Number of terms = 5237 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000135s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BK_104_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000132s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_BKSF_0.7_AS4.txt
+28 qubits
+461 total terms
+
+Number of terms = 461 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/sampleH1.txt
+4 qubits
+15 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 14 nodes.
+MEASURECIRCUIT: BronKerbosch found 2 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.002485s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/sampleH3.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000157s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BK_104_AS2.txt
+4 qubits
+27 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 26 nodes.
+MEASURECIRCUIT: BronKerbosch found 3 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.007802s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/sampleH2.txt
+8 qubits
+185 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.473138s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BK_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS2.txt
+4 qubits
+27 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 26 nodes.
+MEASURECIRCUIT: BronKerbosch found 3 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.006052s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_sto-3g_BK_1.45_AS5.txt
+10 qubits
+276 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 275 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 268.739285s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS9.txt
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+18 qubits
+8484 total terms
+
+Number of terms = 8484 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_JW.txt
+4 qubits
+27 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 26 nodes.
+MEASURECIRCUIT: BronKerbosch found 3 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.006196s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS3.txt
+6 qubits
+94 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 93 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.131536s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000120s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_BK_104_AS4.txt
+8 qubits
+193 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 192 nodes.
+MEASURECIRCUIT: BronKerbosch found 9 unique circuits
+MEASURECIRCUIT: Elapsed time: 8.987511s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_PC_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS6.txt
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+12 qubits
+1519 total terms
+
+Number of terms = 1519 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_BKT_0.7_AS4.txt
+8 qubits
+185 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.722089s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BK_104_AS3.txt
+6 qubits
+62 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 61 nodes.
+MEASURECIRCUIT: BronKerbosch found 7 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.059705s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/LiH_BK.txt
+4 qubits
+27 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 26 nodes.
+MEASURECIRCUIT: BronKerbosch found 3 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.006030s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_sto-3g_JW_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/CH4_sto-3g_BK_grnd_AS5.txt
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+Imaginary coefficient! -- skipping for now
+10 qubits
+592 total terms
+
+Number of terms = 592 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BKT_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_BK_104_AS1.txt
+2 qubits
+4 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 3 nodes.
+MEASURECIRCUIT: BronKerbosch found 1 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.000132s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_BK_0.7_AS3.txt
+6 qubits
+62 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 61 nodes.
+MEASURECIRCUIT: BronKerbosch found 6 unique circuits
+MEASURECIRCUIT: Elapsed time: 0.069054s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2_6-31g_JW_0.7_AS4.txt
+8 qubits
+185 total terms
+
+FULLCommutation:
+BronKerbosch algorithm:
+MEASURECIRCUIT: Generated graph for the Hamiltonian with 184 nodes.
+MEASURECIRCUIT: BronKerbosch found 8 unique circuits
+MEASURECIRCUIT: Elapsed time: 1.475105s
+
+--------
+/n/fs/qcteague/vqe-term-grouping/hamiltonians/H2O_6-31g_JW_104_AS6.txt
+12 qubits
+631 total terms
+
+Number of terms = 631 > 400
+Recommend running this Hamiltonian individually
