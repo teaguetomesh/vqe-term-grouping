@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*- 
 """
-Teague Tomesh - 4/26/2019
-
 Given a particular qubit Hamiltonian, measuring the expected energy of any
 given quantum state will depend only on the individual terms of that 
 Hamiltonian. 
